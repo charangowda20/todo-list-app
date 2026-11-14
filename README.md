@@ -21,7 +21,7 @@ A responsive Todo List App using HTML, CSS, Javascript
 -  Javascript
 
 ##Project Stracture
-todo-list-app/
+todo-list-app
 │
 ├── index.html
 ├── style.css
