@@ -20,14 +20,7 @@ A responsive Todo List App using HTML, CSS, Javascript
 -  CSS3
 -  Javascript
 
-##Project Stracture
-todo-list-app
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-└── .gitignore
+
 
 ## Author
 Charan Gowda K
